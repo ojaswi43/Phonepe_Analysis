@@ -1,5 +1,5 @@
 # Phonepe_Analysis
-![Logo](https://github.com/ojaswi43/Phonepe_Analysis/blob/main/Logo.webp)
+![Logo](https://github.com/ojaswi43/Phonepe_Analysis/blob/main/Logo.jpg)
 
 # Overview 
  + Designed and developed an interactive PhonePe Transaction Analytics Dashboard to monitor transaction performance, user behaviour, payment success rates, and service adoption trends.
